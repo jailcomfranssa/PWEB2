@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: caderneta-3ja
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: IFPB
+Implementation-Vendor-Id: br.edu.ifpb.pweb2
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/caderneta-3ja
+Created-By: Maven Integration for Eclipse
+
